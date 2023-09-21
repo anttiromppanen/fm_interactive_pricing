@@ -16,7 +16,7 @@ function BillingSelector() {
       className="
           mt-10 flex w-full items-center justify-center gap-x-2
           text-xs tracking-wide text-userGrayBlueText
-          md:text-sm"
+          sm:ml-7 sm:mt-16 md:text-sm"
     >
       <p>Monthly Billing</p>
       <ToggleButton
